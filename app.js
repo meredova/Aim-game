@@ -93,4 +93,3 @@ function winTheGame () {
 
     setInterval(kill, 23)
 }
-bigCookie
